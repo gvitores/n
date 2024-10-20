@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **nugreta**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+Text can be **negreta**
 
 There should be whitespace between paragraphs.
 
